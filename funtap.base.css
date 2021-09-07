@@ -1,0 +1,14 @@
+:root{
+    --web--color:#fff;
+    --primary--color:#ef4723;
+    --text--color:#000;
+    --hover--color:#c72a09;
+    --silver--color:#f5f4f5;
+}
+html{
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+}
+.l-2-4{
+    width: 20%;
+}
